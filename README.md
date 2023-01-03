@@ -1,5 +1,6 @@
 # Blackout Tracker
 [![style: lint](https://img.shields.io/badge/style-lint-4BC0F5.svg)](https://pub.dev/packages/lint)
+
 Flutter app for checking battery and charge state and WiFI and internet connection state. Tested in android devices
 
 
