@@ -1,7 +1,5 @@
 abstract class ListEvent {}
 
-class ListInitEvent extends ListEvent {}
-
 class GetEvent extends ListEvent {
   GetEvent();
 }
